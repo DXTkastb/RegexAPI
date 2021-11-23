@@ -20,7 +20,7 @@ import com.app.results.RegResult;
 public class RegexApi {
 
 	private static final String message = "BAD-REQUEST 404";
-	private static final String description = "Please Check URL";
+	private static final String description = "PLEASE CHECK URL";
 
 	@Autowired
 	RegexCalculator rexcalculator;
