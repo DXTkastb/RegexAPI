@@ -41,7 +41,7 @@ JSON OUTPUT:
 
 ###### Example :
 
-URL : localhost:8080/regex/expression?regex=a(b*)ce&string=abce
+URL : localhost:XXXX/regex/expression?regex=a(b*)ce&string=abce
 
 JSON OUTPUT:
 
